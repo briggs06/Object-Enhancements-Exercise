@@ -34,7 +34,7 @@ var instructor = {
     return "Hi!";
   },
   sayBye: function(){
-    return this.firstName  + "says bye!";
+    return this.firstName " + "says bye!";
   }
 }
 
